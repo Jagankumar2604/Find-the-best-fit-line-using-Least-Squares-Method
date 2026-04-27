@@ -45,7 +45,8 @@ Output:
 ```
 
 ## Output:
-<img width="673" height="595" alt="image" src="https://github.com/user-attachments/assets/f58b2afb-8c28-4da3-9156-ebe8a5428b0c" />
+<img width="666" height="591" alt="image" src="https://github.com/user-attachments/assets/b7e76d5c-0561-4c17-a885-08f89ba3578e" />
+
 
 
 
